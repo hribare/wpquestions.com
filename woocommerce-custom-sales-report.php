@@ -74,3 +74,4 @@ if (!function_exists('woocommerce_not_active')) {
 		echo sprintf( '<div class="error"><p>%s</p></div>', $message );
 	}
 }
+?>
